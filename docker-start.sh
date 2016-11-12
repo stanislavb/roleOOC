@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Compiles and compresses sass to css and moves them to public
 for file in ./private/styles/*
